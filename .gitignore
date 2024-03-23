@@ -1,2 +1,3 @@
-./*/vendor
-./mysql/data
+UserService/vendor
+NotificationService/vendor
+mysql/data/*
